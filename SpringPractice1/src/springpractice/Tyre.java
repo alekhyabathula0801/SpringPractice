@@ -3,11 +3,8 @@ package springpractice;
 import org.springframework.stereotype.Component;
 
 public class Tyre {
-    String tyreBrand;
 
-    public Tyre(String tyreBrand) {
-        this.tyreBrand = tyreBrand;
-    }
+    String tyreBrand;
 
     public String getTyreBrand() {
         return tyreBrand;
@@ -19,6 +16,6 @@ public class Tyre {
 
     @Override
     public String toString() {
-        return "tyre brand=" + tyreBrand;
+        return "tyre " + tyreBrand+" brand ";
     }
 }

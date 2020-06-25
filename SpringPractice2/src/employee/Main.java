@@ -7,8 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        Employee employee1=(Employee)context.getBean("employee2");
-        employee1.display();
+        Employee employee2=(Employee)context.getBean("employee2");
+        employee2.display();
     }
 
 }

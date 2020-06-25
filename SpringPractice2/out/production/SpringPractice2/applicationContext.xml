@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="employee1" class="employee.Employee">
-        <constructor-arg value="22"></constructor-arg>
+        <constructor-arg value="22" type="int"></constructor-arg>
         <constructor-arg  value="David"></constructor-arg>
     </bean>
 
