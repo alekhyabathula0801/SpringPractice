@@ -8,5 +8,7 @@ public class Main {
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         Vehicle vehicle = (Vehicle) context.getBean("bike");
         vehicle.drive();
+        Tyre tyre = (Tyre) context.getBean("tyre");
+        System.out.println(tyre);
     }
 }
