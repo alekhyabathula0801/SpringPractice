@@ -3,6 +3,10 @@ package springpractice;
 public class Tyre {
     String tyreBrand;
 
+    public Tyre(String tyreBrand) {
+        this.tyreBrand = tyreBrand;
+    }
+
     public String getTyreBrand() {
         return tyreBrand;
     }
