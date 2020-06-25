@@ -5,6 +5,6 @@
     <bean name="heartObj" class="autowire.Heart">
 
     </bean>
-    <bean name="human" class="autowire.Human" autowire="byType">
+    <bean name="human" class="autowire.Human" autowire="constructor">
     </bean>
 </beans>
