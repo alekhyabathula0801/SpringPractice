@@ -2,9 +2,9 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean name="heart" class="autowire.Heart">
+    <bean name="heartObj" class="autowire.Heart">
 
     </bean>
-    <bean name="human" class="autowire.Human" autowire="byName">
+    <bean name="human" class="autowire.Human" autowire="byType">
     </bean>
 </beans>
