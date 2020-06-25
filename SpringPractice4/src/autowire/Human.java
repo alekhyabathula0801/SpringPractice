@@ -1,10 +1,15 @@
 package autowire;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Human {
     private Heart heart;
-
+    @Autowired
     public Human(Heart heart) {
         this.heart = heart;
+    }
+
+    public Human() {
     }
 
     public Heart getHeart() {
