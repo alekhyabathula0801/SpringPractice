@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class ApplicationConfiguration {
-    @Bean(name="country")
+    @Bean
     public Country getCountry() {
         return new Country();
     }
