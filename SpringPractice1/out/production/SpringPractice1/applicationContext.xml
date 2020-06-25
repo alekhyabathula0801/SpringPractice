@@ -9,6 +9,5 @@
     <context:component-scan base-package="springpractice"></context:component-scan>
     <bean id="tyre" class="springpractice.Tyre">
         <constructor-arg value="Ceat"/>
-<!--        <property name="tyreBrand" value="MRF"></property>-->
     </bean>
 </beans>
