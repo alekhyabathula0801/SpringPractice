@@ -20,9 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a31f1de7-f6d9-4bd0-988f-2f8f3ae80a1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/SpringPractice5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/src/employeejdbc/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/src/employeejdbc/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/src/resource/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice5/src/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringPractice4/autowire/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringPractice4/autowire/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringPractice4/resource/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringPractice4/resource/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/autowire/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autowire/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resource/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource/applicationContext.xml" afterDir="false" />
     </list>
@@ -90,7 +100,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593105009247</updated>
-      <workItem from="1593105097941" duration="2101000" />
+      <workItem from="1593105097941" duration="2674000" />
+      <workItem from="1593140582357" duration="6427000" />
     </task>
     <servers />
   </component>
@@ -107,27 +118,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="175" y="18" key="#com.intellij.ide.util.MemberChooser" timestamp="1593107372514">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="175" y="18" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593107372514" />
-    <state width="684" height="154" key="GridCell.Tab.0.bottom" timestamp="1593107432633">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593166208587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="684" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593107432633" />
-    <state width="684" height="154" key="GridCell.Tab.0.center" timestamp="1593107432633">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593166208587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593166208587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="684" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593107432633" />
-    <state width="684" height="154" key="GridCell.Tab.0.left" timestamp="1593107432633">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593166208587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593166208587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="684" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593107432633" />
-    <state width="684" height="154" key="GridCell.Tab.0.right" timestamp="1593107432633">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593166208587" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593166208587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="684" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593107432633" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593166208587" />
+    <state x="0" y="0" key="new project wizard" timestamp="1593141518436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593141518436" />
   </component>
 </project>
